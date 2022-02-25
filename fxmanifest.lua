@@ -1,6 +1,8 @@
 
 
-description "Made by Sanity's Scripts By NICK#5496"
+description "Made by SN-SCRIPTS"
+
+author 'NICK#5496'
 
 fx_version 'adamant'
 
