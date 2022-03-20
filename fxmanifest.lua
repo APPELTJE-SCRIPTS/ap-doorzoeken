@@ -1,12 +1,8 @@
 
 
-description "Made by SN-SCRIPTS"
+description "sn-doorzoeken - doorzoek script voor fivem"
 
-author 'NICK#5496'
-
-fx_version 'adamant'
-
-game 'gta5'
+author 'Appeltje#7949'
 
 client_scripts{
     "config.lua",
