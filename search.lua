@@ -1,8 +1,8 @@
 ESX = nil
 
 --[[
-	Sanity's Scripts
-        Made by NICK#5496
+	Sn-Scripts
+        Made by Appeltje#7949
 	All rights reserved
 ]]
 
