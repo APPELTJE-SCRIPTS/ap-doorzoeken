@@ -2,7 +2,7 @@
 
 description "sn-doorzoeken - doorzoek script voor fivem"
 
-author 'Appeltje#7949'
+author 'NICK#8338'
 
 client_scripts{
     "config.lua",
