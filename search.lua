@@ -2,7 +2,7 @@ ESX = nil
 
 --[[
 	Sn-Scripts
-        Made by Appeltje#7949
+        Made by NICK#8338
 	All rights reserved
 ]]
 
