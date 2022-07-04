@@ -1,8 +1,8 @@
 
 
-description "sn-doorzoeken - doorzoek script voor fivem"
+description "ap-doorzoeken - doorzoek script voor fivem"
 
-author 'FL45H#5053'
+author 'Appeltje#5053'
 
 client_scripts{
     "config.lua",
